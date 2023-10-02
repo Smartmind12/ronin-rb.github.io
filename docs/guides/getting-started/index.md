@@ -54,8 +54,8 @@ Congratulations! You can now run ronin:
   </div>
 
   <div class="level-item">
-    <a class="button" href="../index.html#guides">
-      &#x2303; Guides
+    <a class="button" href="/docs/#guides">
+      &#x2303; guides
     </a>
   </div>
 
