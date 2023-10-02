@@ -142,13 +142,13 @@ To view a full list of the available Mixin methods, see the documentation for
   </div>
 
   <div class="level-item">
-    <a class="button" href="../index.html#guides">
+    <a class="button" href="/docs/#guides">
       &#x2303; Guides
     </a>
   </div>
 
   <div class="level-right">
-    <a class="button" href="../writting-ronin-ruby-scripts/">
+    <a class="button" href="../writing-ronin-ruby-scripts/">
       Writing Ronin Ruby Scripts &raquo;
     </a>
   </div>
